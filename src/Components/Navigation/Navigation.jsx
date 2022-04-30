@@ -1,10 +1,13 @@
-import React from 'react'
+import React, {useContext} from 'react'
+import userContext from '../user/User'
 import './Navigation.css'
 
 const Navigation = () => {
+
+  const user = useContext(userContext)
   return (
     <div className='navigation'>
-Welcome, Millenium
+Welcome, {user.name}
     </div>
   )
 }
