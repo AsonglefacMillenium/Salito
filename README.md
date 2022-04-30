@@ -1,3 +1,9 @@
+This is a salad display application that uses context to manage the state across components
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
