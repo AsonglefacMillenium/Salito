@@ -8,7 +8,7 @@ import userContext from './Components/user/User';
 const user = {
   "name": "Mllenium",
   "favorites": [
-    "avacados",
+    "avocado",
     "carrot"
   ]
 }
